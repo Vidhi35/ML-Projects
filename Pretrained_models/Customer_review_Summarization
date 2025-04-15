@@ -2,6 +2,16 @@
   "cells": [
     {
       "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Prabhat9801/ML-Projects/blob/main/Pretrained_models/Customer_review_Summarization\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
       "source": [
         "# Uploading the Dataset from the Kaggle\n",
         "The dataset is amazon-product-reviews and the link of the dataset is :-  https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews\n",
@@ -35,7 +45,7 @@
           "height": 804
         }
       },
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -293,7 +303,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -333,7 +343,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -384,7 +394,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -529,7 +539,7 @@
       "metadata": {
         "id": "Mxd6_Ar-pbAF"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -554,7 +564,7 @@
         },
         "outputId": "f08317b3-ded1-424c-eaf8-e06ed6afb5bb"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -605,7 +615,7 @@
         },
         "outputId": "67a5c03b-ca56-4fe5-a595-037652bccaa1"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -639,7 +649,7 @@
         },
         "outputId": "3f5ae542-be6e-4dd9-99a2-c8567d175f6f"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -672,7 +682,7 @@
       "metadata": {
         "id": "fjmWwIDhpwtn"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -698,7 +708,7 @@
         },
         "outputId": "83d405ba-d7d2-48d7-9ab1-64e5a5d070dc"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -727,7 +737,7 @@
       "metadata": {
         "id": "RchQaxROp7LG"
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -747,7 +757,7 @@
       "metadata": {
         "id": "xFY8giVjp-jM"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -776,7 +786,7 @@
         },
         "outputId": "d4fd85ab-b072-4b29-8665-a0db3b338bc2"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -870,7 +880,7 @@
         },
         "outputId": "452960c0-f7f0-4753-a25f-4cebff3e5e81"
       },
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -962,7 +972,7 @@
       "metadata": {
         "id": "zJ3RuII-qMm3"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -994,7 +1004,7 @@
       "metadata": {
         "id": "OJwjs9SPqZfr"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1015,7 +1025,7 @@
       "metadata": {
         "id": "3p2_gRuQqdnm"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1066,7 +1076,7 @@
         },
         "outputId": "9006c0d6-7f28-4607-b9d5-b1e426b67caf"
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1114,7 +1124,7 @@
       "metadata": {
         "id": "f0LlHe7SqoNI"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1144,7 +1154,7 @@
         },
         "outputId": "d310ad9c-540d-44fe-8647-3255a31b5bb8"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1213,7 +1223,7 @@
       "metadata": {
         "id": "vrLZ8HW3q0Yz"
       },
-      "execution_count": 21,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1257,7 +1267,7 @@
       "metadata": {
         "id": "j5vHdpMRq6Ja"
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1283,7 +1293,7 @@
         },
         "outputId": "7c7ca265-8975-4ddf-dc78-98a59bcbea2c"
       },
-      "execution_count": 23,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1379,7 +1389,7 @@
         },
         "outputId": "a03199a3-7e83-428f-bdb5-f36cdf483f34"
       },
-      "execution_count": 24,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1428,7 +1438,7 @@
         },
         "outputId": "22b85382-a3d4-411f-d123-344445845bd9"
       },
-      "execution_count": 25,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1491,7 +1501,7 @@
       "metadata": {
         "id": "gVWT7YsfrnWQ"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1556,7 +1566,7 @@
         },
         "outputId": "b0ea8ccd-fc57-490d-ebcf-2724e3b5deae"
       },
-      "execution_count": 27,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1599,7 +1609,7 @@
       "metadata": {
         "id": "mt_sIIZNsFU0"
       },
-      "execution_count": 34,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1650,7 +1660,7 @@
         },
         "outputId": "78194839-a382-4bde-c32b-e2c6ab21801e"
       },
-      "execution_count": 35,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1696,7 +1706,7 @@
       "metadata": {
         "id": "Ya9cJH1FsuE7"
       },
-      "execution_count": 36,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1716,7 +1726,7 @@
         },
         "outputId": "6aaab208-cfa1-415b-80f0-25281ed7ca84"
       },
-      "execution_count": 37,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1779,7 +1789,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 40,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1799,7 +1809,35 @@
       "cell_type": "code",
       "source": [],
       "metadata": {
-        "id": "n3M-h9s77hjN"
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 35
+        },
+        "id": "sZwp9nkDCByM",
+        "outputId": "db5aea2e-0928-49cc-f762-0e31eeb7a320"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "'/content/amazon_reviews.zip'"
+            ],
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            }
+          },
+          "metadata": {},
+          "execution_count": 46
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "BJ4avPiLCucV"
       },
       "execution_count": null,
       "outputs": []
@@ -1808,7 +1846,8 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "gpuType": "T4"
+      "gpuType": "T4",
+      "include_colab_link": true
     },
     "kernelspec": {
       "display_name": "Python 3",
