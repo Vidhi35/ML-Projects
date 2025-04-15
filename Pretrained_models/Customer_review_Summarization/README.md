@@ -36,13 +36,13 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/customer-review-summarization.git
+    git clone https://github.com/Prabhat9801/ML-Projects/Pretrained_models/customer-review-summarization.git
     cd customer-review-summarization
     ```
 
 2. Install dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install all packages
     ```
 
 3. Upload your Kaggle API token and download the dataset:
@@ -59,7 +59,7 @@
 This project is open-source and available under the MIT License.
 
 ## 👩‍💻 Author
-Developed by [Your Name]
+Developed by Prabhat Singh
 
 ---
 
