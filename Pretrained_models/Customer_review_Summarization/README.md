@@ -32,6 +32,11 @@
 - Summarization results show strong alignment with user sentiments.
 - Effectively condenses multi-paragraph reviews into 1-2 meaningful sentences.
 
+## Drive Link: 
+'''bash
+https://drive.google.com/drive/folders/1dRhuyD9WfpRMfvvyKtWf0xv5Vd7R6EXV?usp=drive_link
+'''
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
